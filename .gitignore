@@ -1,0 +1,14 @@
+# Private source code & local build scripts (Never upload to GitHub)
+_codigo_privado_local/
+*.cs
+*.csproj
+*.bat
+*.pdb
+*.user
+*.suo
+.vs/
+.vscode/
+bin/
+obj/
+Thumbs.db
+.DS_Store
